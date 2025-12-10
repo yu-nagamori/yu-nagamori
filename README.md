@@ -1,16 +1,28 @@
-## Hi there 👋
+## 📝 自己紹介
+- 🔨 **WEBエンジニア**
 
-<!--
-**Ynagamori/Ynagamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 技術スタック
+### 言語
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-Here are some ideas to get you started:
+### フレームワーク・ツール
+- **バックエンド**: Django, Laravel, Node.js  
+- **フロントエンド**: React, Next.js, Vue.js  
+- **DevOps**: Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub ステータス
+![GitHub Stats](https://github-readme-stats-ecru-nine-81.vercel.app/api?username=Ynagamori&count_private=true&theme=dracula)
+
+## 📝 使用言語（GitHub）
+![Top Languages](https://github-readme-stats-ecru-nine-81.vercel.app/api/top-langs?username=Ynagamori&count_private=true&layout=compact&theme=dracula)
+
+## 🔗 各種リンク
+- 🐙 [GitHub](https://github.com/Ynagamori)
+- 📧 Email: nagamori.yuhei@gmail.com
+
+
+---
+*最終更新: 2025-12-10*
