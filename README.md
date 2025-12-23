@@ -14,10 +14,10 @@
 - **DevOps**: Docker  
 
 ## 📊 GitHub ステータス
-![GitHub Stats](https://github-readme-stats-ecru-nine-81.vercel.app/api?username=Ynagamori&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-ecru-nine-81.vercel.app/api?username=yu-nagamori&count_private=true&theme=dracula)
 
 ## 📝 使用言語（GitHub）
-![Top Languages](https://github-readme-stats-ecru-nine-81.vercel.app/api/top-langs?username=Ynagamori&count_private=true&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats-ecru-nine-81.vercel.app/api/top-langs?username=yu-nagamori&count_private=true&layout=compact&theme=dracula)
 
 ## 🔗 各種リンク
 - 🐙 [GitHub](https://github.com/Ynagamori)
